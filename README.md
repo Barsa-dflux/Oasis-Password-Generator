@@ -41,7 +41,7 @@ python password_generator.py
 
 ```text
 Enter password length: 12
-Generated Password: A@8kL#9mX!2p
+Generated Password: WoVL3q2Ki=pl
 Password Strength: Strong
 ```
 
